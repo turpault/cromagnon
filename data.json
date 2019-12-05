@@ -1,0 +1,25 @@
+{
+    "nodes": [
+      {"id": "Orrorin tugenensis", "desc":"3.5M a 200000 ans",  "group": 1},
+      {"id": "Australopithecus anamensis", "group": 1},
+      {"id": "Australopithecus afarensis", "group": 1},
+      {"id": "Homo habilis", "group": 1},
+      {"id": "Homo ergaster", "group": 1},
+      {"id": "Homo erectus", "group": 6},
+      {"id": "Homo heidelbergensis", "group": 7},
+      {"id": "Homo floresiensis", "group": 8},
+      {"id": "Homo neanderthalensis", "group": 9},
+      {"id": "Homo sapiens", "group": 10}
+    ],
+    "links": [
+      {"source": "Orrorin tugenensis", "target": "Australopithecus anamensis", "value": 100},
+      {"source": "Orrorin tugenensis", "target": "Homo habilis", "value": 100},
+      {"source": "Homo heidelbergensis", "target": "Orrorin tugenensis", "value": 100},
+      {"source": "Homo ergaster", "target": "Homo habilis", "value": 100},
+      {"source": "Homo habilis", "target": "Homo sapiens", "value": 100},
+      {"source": "Australopithecus afarensis", "target": "Homo floresiensis", "value": 100},
+      {"source": "Homo sapiens", "target": "Homo floresiensis", "value": 100},
+      {"source": "Homo habilis", "target": "Homo erectus", "value": 100},
+      {"source": "Homo neanderthalensis", "target": "Homo habilis", "value": 100}
+    ]
+  }
