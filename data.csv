@@ -1,29 +1,11 @@
-source,target,value,desc
-Harry,Sally,1.2,hello world
-Harry,Mario,1.3
-Sarah,Alice,0.2
-Eveie,Alice,0.5
-Peter,Alice,1.6
-Mario,Alice,0.4
-James,Alice,0.6
-Harry,Carol,0.7
-Harry,Nicky,0.8
-Bobby,Frank,0.8
-Alice,Mario,0.7
-Harry,Lynne,0.5
-Sarah,James,1.9
-Roger,James,1.1
-Maddy,James,0.3
-Sonny,Roger,0.5
-James,Roger,1.5
-Alice,Peter,1.1
-Johan,Peter,1.6
-Alice,Eveie,0.5
-Harry,Eveie,0.1
-Eveie,Harry,2.0
-Henry,Mikey,0.4
-Elric,Mikey,0.6
-James,Sarah,1.5
-Alice,Sarah,0.6
-James,Maddy,0.5
-Peter,Johan,0.7
+Nom,Debut,Fin,Description,Parent,Image
+Homo Erectus,1 000 000,140 000,homme qui se tient droit,Homo Ergaster,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sinathropus_pekinensis.jpg/580px-Sinathropus_pekinensis.jpg
+Homo Sapiens,300 000,0,homme sage,Homo Heidelbergensis,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Human.svg/580px-Human.svg.png
+Homo Neanderthalensis,450 000,30 000,homme moderne,Homo Heidelbergensis,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Homo_sapiens_neanderthalensis.jpg/580px-Homo_sapiens_neanderthalensis.jpg
+Homo Floresiensis,100 000,60 000,homme de Florès (Une ile d'indonésie),Homo Erectus,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Homo_floresiensis.jpg/580px-Homo_floresiensis.jpg
+Homo Heidelbergensis,700 000,300 000,"découvert près de Heidelberg, en Allemagne",Homo Habilis,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Mandibel_from_Mauer.JPG/580px-Mandibel_from_Mauer.JPG
+Homo Ergaster,1 900 000,1 300 000,homme artisan,Homo Habilis,https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Homo_ergaster.jpg/580px-Homo_ergaster.jpg
+Homo Habilis,2 300 000,1 500 000,homme habile,Orrorin Tugenensis,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Homo_habilis-KNM_ER_1813.jpg/580px-Homo_habilis-KNM_ER_1813.jpg
+Australopithecus Afarensis,4 200 000,3 900 000,singe du sud,Orrorin Tugenensis,https://upload.wikimedia.org/wikipedia/commons/0/0e/Lucy_Mexico.jpg
+Australopithecus Anamensis,4 100 000,3 800 000,"tire son nom du mot « anam », qui signifie « lac » en Turkana.",Orrorin Tugenensis,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Australopithecus_anamensis_bone_%28University_of_Zurich%29.JPG/580px-Australopithecus_anamensis_bone_%28University_of_Zurich%29.JPG
+Orrorin Tugenensis,5 900 000,5 800 000,homme originel,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Orrorin_tugenensis.jpg/290px-Orrorin_tugenensis.jpg
